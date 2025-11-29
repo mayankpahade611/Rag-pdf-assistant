@@ -1,13 +1,12 @@
 # Chat-with-PDF — RAG Assistant
 
-Upload any PDF → Ask questions → Get accurate, source-grounded answers
-Built with SentenceTransformers, ChromaDB, Transformers, and Gradio.
+- Upload any PDF → Ask questions → Get accurate, source-grounded answers
+- Built with SentenceTransformers, ChromaDB, Transformers, and Gradio.
 
 # Live Demo
 
-👉 Hugging Face Space: Add your URL here
-(Example: https://huggingface.co/spaces/yourname/chat-with-pdf
-)
+👉 Hugging Face Space: [Click here](https://huggingface.co/spaces/Phantom611/Rag-pdf-assistant)
+
 
 # Overview
 
