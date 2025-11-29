@@ -23,3 +23,46 @@ Google’s Enterprise Search
 Notion AI Q&A
 
 ChatPDF
+
+# ✨ Features
+## ✔ Upload & Index Any PDF
+
+### Automatic:
+
+- text extraction
+
+- cleaning
+
+- chunking
+
+- embedding
+
+- vector storage
+
+## ✔ Semantic Search via ChromaDB
+
+Powered by BAAI/BGE-small-en embeddings
+Fast and highly accurate retrieval.
+
+## ✔ LLM-Generated Answers with Citations
+
+LLM uses ONLY retrieved context.
+Reduces hallucinations and forces grounding.
+
+## ✔ Full Web App UI (Gradio)
+
+Live, hosted, and publicly shareable via HuggingFace Spaces.
+
+## ✔ End-to-End RAG Pipeline
+
+- PDF → text
+
+- chunking
+
+- embeddings
+
+- vector search
+
+- LLM answer generation
+
+- cite pages used
