@@ -1,0 +1,9 @@
+gradio
+chromadb
+sentence-transformers
+transformers
+accelerate
+pdfplumber
+pypdf
+unidecode
+regex
