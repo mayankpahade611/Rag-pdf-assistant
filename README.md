@@ -1,15 +1,15 @@
-📘 Chat-with-PDF — RAG Assistant
+# Chat-with-PDF — RAG Assistant
 
 Upload any PDF → Ask questions → Get accurate, source-grounded answers
 Built with SentenceTransformers, ChromaDB, Transformers, and Gradio.
 
-🚀 Live Demo
+# Live Demo
 
 👉 Hugging Face Space: Add your URL here
 (Example: https://huggingface.co/spaces/yourname/chat-with-pdf
 )
 
-🧠 Overview
+# Overview
 
 This project implements an end-to-end Retrieval-Augmented Generation (RAG) system that turns any PDF into an interactive AI assistant.
 
